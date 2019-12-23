@@ -1,3 +1,3 @@
-1. Visual Studios Code(MindGame.c)
+1. Visual Studios Code(mathstable.c)
 2. Notepad
    Thanks for downloading ...

@@ -1,3 +1,3 @@
-Visual Studios Code(MindGame.c)
-Notepad
-Thanks for downloading ...
+1. Visual Studios Code(MindGame.c)
+2. Notepad
+   Thanks for downloading ...
